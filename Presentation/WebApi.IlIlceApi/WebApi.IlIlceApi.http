@@ -1,0 +1,6 @@
+@WebApi.IlIlceApi_HostAddress = http://localhost:5166
+
+GET {{WebApi.IlIlceApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
